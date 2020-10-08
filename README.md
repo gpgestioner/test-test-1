@@ -41,7 +41,7 @@ Before cloning it, we must have visual studio 2019 Community installed with the 
 
 select and install them -> <img src="https://i.imgur.com/7598bSc.png" title="source: imgur.com" />
 
-- **clone the repository **from console, visual studio or sourcetree tool
+- **clone the repository** from console, visual studio or sourcetree tool
 
 <img src="https://i.imgur.com/sXdSqD0.png" title="source: imgur.com" />
 
