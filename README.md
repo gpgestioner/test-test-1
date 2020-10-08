@@ -55,6 +55,9 @@ All the libraries that the project implements are downloaded from the nuget pack
 
 <img src="https://i.imgur.com/uiileve.png" title="source: imgur.com" />
 
+- Once you have completed these steps, the references will no longer give us an error, we will see the following:
+
+<img src="https://i.imgur.com/QL1cK0U.png" title="source: imgur.com" />
 
 - After that, if the error disappeared we can run the code: <br>
 **Running Locally**  **=>** <span style="color: #567;">**Step 4**</span>
