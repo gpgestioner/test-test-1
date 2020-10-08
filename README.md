@@ -56,7 +56,7 @@ All the libraries that the project implements are downloaded from the nuget pack
 <img src="https://i.imgur.com/uiileve.png" title="source: imgur.com" />
 
 
-- After that, if the error disappeared we can run the code:
+- After that, if the error disappeared we can run the code: <br>
 **Running Locally**  **=>** <span style="color: #567;">**Step 4**</span>
 -- Run IIS Explorer (your Browser) on your local machine
 -- Open http://localhost:XXXX (project port) to open the site in your favorite browser
