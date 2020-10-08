@@ -31,7 +31,7 @@ To clone the repository and run the program you only need the following:
 If you have all of the above, or understand where to get the packages, it is ready.
 All the libraries that the project implements are downloaded from the nuget package:
 
-- **clone the repository **from console, visual studio or sourcetree tool
+- **clone the repository** from console, visual studio or sourcetree tool
 
 <img src="https://i.imgur.com/sXdSqD0.png" title="source: imgur.com" />
 
