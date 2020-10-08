@@ -10,6 +10,8 @@ Our solutions are designed to enable your company to perform data analytics on p
 ##### Web Interface
 This system has an intuitive interface which allows a simple and attractive navigability, we hope you have a good experience when browsing our site.
 
+<br>
+
 ## Documentation
 
 ##### What should I not ignore to clone it?
@@ -49,7 +51,7 @@ All the libraries that the project implements are downloaded from the nuget pack
 -  Open the nuget package console to run this "Update-Package -reinstall" command, all or most of the references will be loaded, so the main error will go away.
 <img src="https://i.imgur.com/IoDL3Se.png" title="source: imgur.com" />
 
-- If nuget couldn´t load all the references, you are probably missing the References to MvcContrib, Entity Framework, Newtonsoft.Json, among the examples. At this point you must open the nuget administrator and install the missing ones one by one (check that the versions are the same)
+- If nuget couldn't load all the references, you are probably missing the References to MvcContrib, Entity Framework, Newtonsoft.Json, among the examples. At this point you must open the nuget administrator and install the missing ones one by one (check that the versions are the same)
 
 <img src="https://i.imgur.com/uiileve.png" title="source: imgur.com" />
 
@@ -59,6 +61,8 @@ All the libraries that the project implements are downloaded from the nuget pack
 -- Run IIS Explorer (your Browser) on your local machine
 -- Open http://localhost:XXXX (project port) to open the site in your favorite browser
 
+<br>
+<br>
 
 ## Configuration
 
