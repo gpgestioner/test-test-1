@@ -10,8 +10,7 @@ Our solutions are designed to enable your company to perform data analytics on p
 ##### Web Interface
 This system has an intuitive interface which allows a simple and attractive navigability, we hope you have a good experience when browsing our site.
 
-#### Documentation
-<hr>
+## Documentation
 
 ##### What should I not ignore to clone it?
 To clone the repository and run the program you only need the following:
