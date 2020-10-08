@@ -11,7 +11,6 @@ Our solutions are designed to enable your company to perform data analytics on p
 This system has an intuitive interface which allows a simple and attractive navigability, we hope you have a good experience when browsing our site.
 
 ### Documentation
-<hr>
 
 ##### This system runs in visual studio 2019 Community
 
@@ -75,7 +74,7 @@ select and install them -> <img src="https://i.imgur.com/7598bSc.png" title="sou
 
 
 #### Configuration
-<hr>
+
 - This project was started in a .Net Framework MVC 4.6.1 structure, as you have read earlier in this document, implementing that model, we also have within our architecture, we can find the services, which for now we present the logs technique and our connection to the REST api.
 - The base configuration of the project is the one created by the developers based on the updates provided by the Dpella api.
 - Our Web service is running on a SQL Server
