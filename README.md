@@ -30,6 +30,8 @@ It is composed of the following technologies:
 
 Our system is a web service with a web interface, developed in C# language using the .NET Framework platform, which is Microsoft's IDE (Integrated Development Environment).
 
+![.NET Framework](https://img.shields.io/badge/.Net%20Framework%204.6.1-Developer Pack-informational) the version of the framework used is 4.6.1 Developer Pack
+
 #####  ¡ IMPORTANT !
 
 To install visual studio 2019 you need to enter here  [Visual Studio 2019 Community](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Visual Studio 2019 Community")
