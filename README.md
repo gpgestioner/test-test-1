@@ -30,9 +30,7 @@ It is composed of the following technologies:
 
 Our system is a web service with a web interface, developed in C# language using the .NET Framework platform, which is Microsoft's IDE (Integrated Development Environment).
 
-![.NET Framework](https://img.shields.io/badge/.Net%20Framework%204.6.1-Developer%20Pack-informational) the version of the framework used is 4.6.1 Developer Pack
-
-#####  ¡ IMPORTANT !
+###  ¡ IMPORTANT ! Visual studio 
 
 To install visual studio 2019 you need to enter here  [Visual Studio 2019 Community](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Visual Studio 2019 Community")
 
@@ -42,9 +40,15 @@ Before cloning it, we must have visual studio 2019 Community installed with the 
 
 select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="source: imgur.com" />
 
- - check in **Tools** -> **options** -> **Restore packages**, check that the boxes are activated
+ - inside visual studio check **Tools** -> **options** -> **Restore packages**, check that the boxes are activated
  
    <img src="https://i.imgur.com/Fx9kIwV.png" title="source: imgur.com" />
+   
+   The project uses version 4.6.1 of the framework ![](https://img.shields.io/badge/.Net%20Framework%204.6.1-Developer Pack-informational)
+
+<br>
+
+### clone the repository
 
 - **clone the repository** from console, visual studio or sourcetree tool
 <img src="https://i.imgur.com/DkUcNGN.png" title="source: imgur.com" />
@@ -54,13 +58,11 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="sou
  
  - doing those steps should work correctly
 
-
-- After that, if the error disappeared we can run the code:
-
 **Running Locally**  **=>** <span style="color: #567;">**Step 4**</span>
 -- Run IIS Explorer (your Browser) on your local machine
 -- Open http://localhost:XXXX (project port) to open the site in your favorite browser
 
+<br>
 
 ## Configuration
 
