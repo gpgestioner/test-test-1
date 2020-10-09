@@ -16,16 +16,17 @@ This system has an intuitive interface which allows a simple and attractive navi
 
 It is composed of the following technologies:
 
- ![](https://img.shields.io/badge/Visual%20Studio%202019-IDE%20Community-inactive)
-  ![](https://img.shields.io/badge/MVC-architecture%20pattern-success)
-  ![](https://img.shields.io/badge/Service%20REST-Web%20Api-success)
- ![](https://img.shields.io/badge/C%23-Backend-green)
- ![](https://img.shields.io/badge/HTML5-HiperText%20Markup%20language-informational)
- ![](https://img.shields.io/badge/CSS-styles-9cf)
- ![](https://img.shields.io/badge/Razor-Markup%20syntax-blue)
- ![](https://img.shields.io/badge/Entity%20Framework-6.x-blue) 
- ![](https://img.shields.io/badge/Newtonsoft%20JSON-12.0.3-blue)
- ![](https://img.shields.io/badge/MvcContrib-2.0.95-blue)
+ ![VSIDE](https://img.shields.io/badge/Visual%20Studio%202019-IDE%20Community-inactive)
+ ![MVC](https://img.shields.io/badge/MVC-architecture%20pattern-success)
+ ![REST](https://img.shields.io/badge/Service%20REST-Web%20Api-success)
+ ![C](https://img.shields.io/badge/C%23-Backend-green)
+ ![HTML5](https://img.shields.io/badge/HTML5-HiperText%20Markup%20language-informational)
+ ![CSS](https://img.shields.io/badge/CSS-styles-9cf)
+ ![Razor](https://img.shields.io/badge/Razor-Markup%20syntax-blue)
+ ![.NETFramework](https://img.shields.io/badge/.Net%20Framework%204.6.1-Developer%20Pack-informational)
+ ![EntityFramework](https://img.shields.io/badge/Entity%20Framework-6.x-blue) 
+ ![Newtonsoft](https://img.shields.io/badge/Newtonsoft%20JSON-12.0.3-blue)
+ ![MvcContrib](https://img.shields.io/badge/MvcContrib-2.0.95-blue)
  ![Charts](https://img.shields.io/badge/plotly.com%2Fjavascript-Charts-blue)
 
 Our system is a web service with a web interface, developed in C# language using the .NET Framework platform, which is Microsoft's IDE (Integrated Development Environment).
@@ -43,8 +44,6 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="sou
  - inside visual studio check **Tools** -> **options** -> **Restore packages**, check that the boxes are activated
  
    <img src="https://i.imgur.com/Fx9kIwV.png" title="source: imgur.com" />
-   
-   The project uses version 4.6.1 of the framework ![](https://img.shields.io/badge/.Net%20Framework%204.6.1-Developer%20Pack-informational)
 
 <br>
 
