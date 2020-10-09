@@ -44,7 +44,7 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="sou
  
    <img src="https://i.imgur.com/Fx9kIwV.png" title="source: imgur.com" />
    
-   The project uses version 4.6.1 of the framework ![](https://img.shields.io/badge/.Net%20Framework%204.6.1-Developer Pack-informational)
+   The project uses version 4.6.1 of the framework ![](https://img.shields.io/badge/.Net%20Framework%204.6.1-Developer%20Pack-informational)
 
 <br>
 
