@@ -30,7 +30,7 @@ It is composed of the following technologies:
 
 Our system is a web service with a web interface, developed in C# language using the .NET Framework platform, which is Microsoft's IDE (Integrated Development Environment).
 
-![.NET Framework](https://img.shields.io/badge/.Net%20Framework%204.6.1-Developer Pack-informational) the version of the framework used is 4.6.1 Developer Pack
+![.NET Framework](https://img.shields.io/badge/.Net%20Framework%204.6.1-Developer%20Pack-informational) the version of the framework used is 4.6.1 Developer Pack
 
 #####  ¡ IMPORTANT !
 
