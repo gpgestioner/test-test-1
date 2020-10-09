@@ -53,7 +53,7 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="sou
 <img src="https://i.imgur.com/DkUcNGN.png" title="source: imgur.com" />
 
 - open the project, click on **solution "project"** -> **compile project**
- -  <img src="https://i.imgur.com/M1w7oUS.png" title="source: imgur.com" />
+<img src="https://i.imgur.com/M1w7oUS.png" title="source: imgur.com" />
  
  - doing those steps should work correctly
 
