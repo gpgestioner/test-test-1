@@ -51,7 +51,7 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="sou
 <a href="https://imgur.com/wyhD42q"><img src="https://i.imgur.com/wyhD42q.png" title="source: imgur.com" /></a>
 
  Help tutorial to install SQL Server and Management-> [SQL Server and Management (Youtube)](https://www.youtube.com/watch?v=RvMthhog1H4 "help tutorial to install SQL Server and Management")
- - Once the management is installed, in your local environment add the script that we are going to provide you, inside the ScriptDB folder.
+ - Once the management is installed, in your local environment add the script that we are going to provide you, inside the /Documentacion folder.
 
 <br>
 
