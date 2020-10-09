@@ -44,7 +44,7 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="sou
  
    <img src="https://i.imgur.com/Fx9kIwV.png" title="source: imgur.com" />
 
-- **clone the repository **from console, visual studio or sourcetree tool
+- **clone the repository** from console, visual studio or sourcetree tool
 <img src="https://i.imgur.com/DkUcNGN.png" title="source: imgur.com" />
 
 - open the project, click on **solution "project"** -> **compile project**
