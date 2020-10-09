@@ -74,10 +74,10 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="sou
 - Make the calls to the dpella endpoints, which work with data privacity, receiving the Dataset, Structure and Histogram lists, methods which return a *responseDTO*.
 
 - the process to generate an Analyze in the view is as follows:
- - Enter **Datasets**
- - *Choose a column*
- - Choose the type of **Histogram** *and press continue*
- - You will see that you can perform your *analysis* by calculating the ***epsilon*** and the ***beta*** with the amount of **bins**.
+  - Enter **Datasets**
+  - *Choose a column*
+  - Choose the type of **Histogram** *and press continue*
+  - You will see that you can perform your *analysis* by calculating the ***epsilon*** and the ***beta*** with the amount of **bins**.
 
 ##### Charts of plotly 
 ![Charts](https://img.shields.io/badge/plotly.com%2Fjavascript-Charts-9cf) [Plotly / Charts Javascript](https://plotly.com/javascript/error-bars/#horizontal-error-bars "Plotly / Charts Javascript")
