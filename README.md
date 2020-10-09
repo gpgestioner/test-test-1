@@ -12,7 +12,6 @@ This system has an intuitive interface which allows a simple and attractive navi
 
 ## Documentation
 
-
 ##### This system runs in visual studio 2019 Community
 
 It is composed of the following technologies:
@@ -37,38 +36,25 @@ To install visual studio 2019 you need to enter here  [Visual Studio 2019 Commun
 
 Before cloning it, we must have visual studio 2019 Community installed with the following worklands:
 
-<img src="https://i.imgur.com/60gulsO.png" title="source: imgur.com" />
+<img src="https://i.imgur.com/OSVH976.png" title="source: imgur.com" />
 
-select and install them -> <img src="https://i.imgur.com/7598bSc.png" title="source: imgur.com" />
+select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="source: imgur.com" />
 
-- **clone the repository** from console, visual studio or sourcetree tool
+ - check in **Tools** -> **options** -> **Restore packages**, check that the boxes are activated
+ 
+   <img src="https://i.imgur.com/Fx9kIwV.png" title="source: imgur.com" />
 
-<img src="https://i.imgur.com/sXdSqD0.png" title="source: imgur.com" />
+- **clone the repository **from console, visual studio or sourcetree tool
+<img src="https://i.imgur.com/DkUcNGN.png" title="source: imgur.com" />
 
-- verify that the **references** are correctly installed, if everything works correctly you can run it and use the project
+- open the project, click on **solution "project"** -> **compile project**
+ -  <img src="https://i.imgur.com/M1w7oUS.png" title="source: imgur.com" />
+ 
+ - doing those steps should work correctly
 
-- *If it does not work correctly*, what you should do are the following steps:
-
-- check in **Tools** -> **options** -> **Restore packages**, check that the boxes are activated
-
-<img src="https://i.imgur.com/UD99Xjz.png" title="source: imgur.com" />
-
--  If it shows us the following error when loading the references:
-
-<img src="https://i.imgur.com/3GeXWiS.png" title="source: imgur.com" />
-
--  Open the nuget package console to run this "Update-Package -reinstall" command, all or most of the references will be loaded, so the main error will go away.
-<img src="https://i.imgur.com/IoDL3Se.png" title="source: imgur.com" />
-
-- If nuget couldn´t load all the references, you are probably missing the References to MvcContrib, Entity Framework, Newtonsoft.Json, among the examples. At this point you must open the nuget administrator and install the missing ones one by one (check that the versions are the same)
-
-<img src="https://i.imgur.com/uiileve.png" title="source: imgur.com" />
-
-- Once you have completed these steps, the references will no longer give us an error, we will see the following:
-
-<img src="https://i.imgur.com/QL1cK0U.png" title="source: imgur.com" />
 
 - After that, if the error disappeared we can run the code:
+
 **Running Locally**  **=>** <span style="color: #567;">**Step 4**</span>
 -- Run IIS Explorer (your Browser) on your local machine
 -- Open http://localhost:XXXX (project port) to open the site in your favorite browser
