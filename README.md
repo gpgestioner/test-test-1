@@ -12,9 +12,7 @@ This system has an intuitive interface which allows a simple and attractive navi
 
 ## Documentation
 
-##### This system runs in visual studio 2019 Community
-
-It is composed of the following technologies:
+#### This system runs in visual studio 2019 Community, It is composed of the following technologies:
 
  ![VSIDE](https://img.shields.io/badge/Visual%20Studio%202019-IDE%20Community-inactive)
  ![MVC](https://img.shields.io/badge/MVC-architecture%20pattern-success)
@@ -31,7 +29,9 @@ It is composed of the following technologies:
 
 Our system is a web service with a web interface, developed in C# language using the .NET Framework platform, which is Microsoft's IDE (Integrated Development Environment).
 
-###  ¡ IMPORTANT ! Visual studio 
+> **Remember:** that the system consumes a web service, but stores it in a database, we need to have SQL Server and management installed to manage the database from there, **if there is no connection with the database the system will not work**.
+
+### 1. Install Visual studio 
 
 To install visual studio 2019 you need to enter here  [Visual Studio 2019 Community](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16 "Visual Studio 2019 Community")
 
@@ -45,9 +45,17 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="sou
  
    <img src="https://i.imgur.com/Fx9kIwV.png" title="source: imgur.com" />
 
+### 2. install SQL Server and Sql Management
+- Link to download SQL Server(Express) [SQL Server - Express](https://www.microsoft.com/es-es/sql-server/sql-server-downloads "SQL Server - Express")
+- Link to download Sql Management Studio (SSMS) [Management Studio - SSMS](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15 "SSMS")
+<a href="https://imgur.com/wyhD42q"><img src="https://i.imgur.com/wyhD42q.png" title="source: imgur.com" /></a>
+
+ Help tutorial to install SQL Server and Management-> [SQL Server and Management (Youtube)](https://www.youtube.com/watch?v=RvMthhog1H4 "help tutorial to install SQL Server and Management")
+ - Once the management is installed, in your local environment add the script that we are going to provide you, inside the ScriptDB folder.
+
 <br>
 
-### clone the repository
+### 3. if you already have everything installed,  clone the repository
 
 - **clone the repository** from console, visual studio or sourcetree tool
 <img src="https://i.imgur.com/DkUcNGN.png" title="source: imgur.com" />
