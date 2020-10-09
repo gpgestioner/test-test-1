@@ -72,7 +72,7 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="sou
 
 ##### REST service
 - Remember that this project is connected to the web service to work, for that we need a class that does this serialization. So once you see that the web service is working correctly, our site will have full functionality
-- Make the calls to the dpella endpoints, which work with data privacity, receiving the Dataset, Structure and Histogram lists, methods which return a * responseDTO *.
+- Make the calls to the dpella endpoints, which work with data privacity, receiving the Dataset, Structure and Histogram lists, methods which return a *responseDTO*.
 
 - the process to generate an Analyze in the view is as follows:
  - Enter **Datasets**
