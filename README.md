@@ -48,26 +48,24 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="ins
 ### 2. install SQL Server and Sql Management
 - Link to download SQL Server(Express) [SQL Server - Express](https://www.microsoft.com/es-es/sql-server/sql-server-downloads "SQL Server - Express")
 - Link to download Sql Management Studio (SSMS) [Management Studio - SSMS](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15 "SSMS")
-<img src="https://i.imgur.com/wyhD42q.png" title="sql server and management" />
+<a href="https://imgur.com/wyhD42q"><img src="https://i.imgur.com/wyhD42q.png" title="sql server and management" />
 
  Help tutorial to install SQL Server and Management-> [SQL Server and Management (Youtube)](https://www.youtube.com/watch?v=RvMthhog1H4 "help tutorial to install SQL Server and Management")
  - Once the management is installed, in your local environment add the script that we are going to provide you, inside the ScriptDB folder.
  - The script is located in the folder Documentation / scriptVersions / DpellaQA-v1.0.sql
-  - We open Sql Management
-  - we position ourselves in the folder that contains the script
-  - we drag the script to the management, and drop it in the workspace
+   - We open Sql Management
+   - we position ourselves in the folder that contains the script
+   - we drag the script to the management, and drop it in the workspace
    
    <img src="https://i.imgur.com/m8KmEBF.png" title="drag script example" />
-   
-  - we can visualize the script, as we will see in this example:
+   - we can visualize the script, as we will see in this example:
    
    <img src="https://i.imgur.com/Z5PnB8D.png" title="script example" />
-   
-  - we stop at this part, and choose **"master"**, the next thing would be to execute it
+   - we stop at this part, and choose **"master"**, the next thing would be to execute it
    
    <img src="https://i.imgur.com/UfTFnL7.png" title="how to execute" />
    
-  - after that we should see it in our databases.
+   - after that we should see it in our databases.
    
 <br>
 
@@ -81,29 +79,11 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="ins
 <img src="https://i.imgur.com/M1w7oUS.png" title="how to compile project" />
 
 - After that, we have several ways to reestablish the connection with the database, but for now we will show you the following:
- - we remove the connection string from the **web.config** file
-  
-  <img src="https://i.imgur.com/HHzAGUr.png" title="removing the connectionString" />
-  
- - we will have to double click on the **Model.edmx**
-  
-  <img src="https://i.imgur.com/cuHufQ1.png" title="removing the model" />
-  
- - we make a second click and choose to update the model from the database
-  
-  <img src="https://i.imgur.com/CEmRmEj.png" title="update model" />
-  
- - We generate the new connection and within the connection properties, in the server name field, we use the one provided by the management, when we open it when we are going to enter to manage databases. Before connecting, if you have configured a username and password, use it as well.
-  
-   <img src="https://i.imgur.com/yMga7T7.png" title="create the connection" />
-   
-  - Once you have completed the previous steps, it will let us configure the connection chain that will appear in the web.config file, following the steps in the image, we will see that we have to select these tables
-   
-   <img src="https://i.imgur.com/zN2CtIa.png" title="configure connection" />
-   
-  - we finish and, we will click on accept the 2 times that appears and save the files
-   
-  <img src="https://i.imgur.com/PdMHslN.png" title="save changes" />
+  - tendremos que cambiar los datos del connectionString
+   - Data Source = "name server"
+   - initial catalog = "database name"
+   - if you have username and password add them, otherwise it is not necessary
+  <img src="https://i.imgur.com/wowP1cf.png" title="Change connection string" />
 
 - as a last step, accept in the changes "yes to all". If all is well, we are ready
 
