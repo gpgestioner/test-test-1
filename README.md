@@ -79,26 +79,27 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="ins
 <img src="https://i.imgur.com/M1w7oUS.png" title="how to compile project" />
 
 - After that, we have several ways to reestablish the connection with the database, but for now we will show you the following:
-  - we remove the connection string from the **web.config** file
+ - we remove the connection string from the **web.config** file
   
   <img src="https://i.imgur.com/HHzAGUr.png" title="removing the connectionString" />
-  - we will have to double click on the **Model.edmx**
+  
+ - we will have to double click on the **Model.edmx**
   
   <img src="https://i.imgur.com/cuHufQ1.png" title="removing the model" />
   
-  - we make a second click and choose to update the model from the database
+ - we make a second click and choose to update the model from the database
   
   <img src="https://i.imgur.com/CEmRmEj.png" title="update model" />
   
-  - We generate the new connection and within the connection properties, in the server name field, we use the one provided by the management, when we open it when we are going to enter to manage databases. Before connecting, if you have configured a username and password, use it as well.
+ - We generate the new connection and within the connection properties, in the server name field, we use the one provided by the management, when we open it when we are going to enter to manage databases. Before connecting, if you have configured a username and password, use it as well.
   
    <img src="https://i.imgur.com/yMga7T7.png" title="create the connection" />
    
-   - Once you have completed the previous steps, it will let us configure the connection chain that will appear in the web.config file, following the steps in the image, we will see that we have to select these tables
+  - Once you have completed the previous steps, it will let us configure the connection chain that will appear in the web.config file, following the steps in the image, we will see that we have to select these tables
    
    <img src="https://i.imgur.com/zN2CtIa.png" title="configure connection" />
    
-   - we finish and, we will click on accept the 2 times that appears and save the files
+  - we finish and, we will click on accept the 2 times that appears and save the files
    
   <img src="https://i.imgur.com/PdMHslN.png" title="save changes" />
 
