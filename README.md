@@ -48,24 +48,26 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="ins
 ### 2. install SQL Server and Sql Management
 - Link to download SQL Server(Express) [SQL Server - Express](https://www.microsoft.com/es-es/sql-server/sql-server-downloads "SQL Server - Express")
 - Link to download Sql Management Studio (SSMS) [Management Studio - SSMS](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15 "SSMS")
-<a href="https://imgur.com/wyhD42q"><img src="https://i.imgur.com/wyhD42q.png" title="sql server and management" />
+<img src="https://i.imgur.com/wyhD42q.png" title="sql server and management" />
 
  Help tutorial to install SQL Server and Management-> [SQL Server and Management (Youtube)](https://www.youtube.com/watch?v=RvMthhog1H4 "help tutorial to install SQL Server and Management")
  - Once the management is installed, in your local environment add the script that we are going to provide you, inside the ScriptDB folder.
  - The script is located in the folder Documentation / scriptVersions / DpellaQA-v1.0.sql
-   - We open Sql Management
-   - we position ourselves in the folder that contains the script
-   - we drag the script to the management, and drop it in the workspace
+  - We open Sql Management
+  - we position ourselves in the folder that contains the script
+  - we drag the script to the management, and drop it in the workspace
    
    <img src="https://i.imgur.com/m8KmEBF.png" title="drag script example" />
-   - we can visualize the script, as we will see in this example:
+   
+  - we can visualize the script, as we will see in this example:
    
    <img src="https://i.imgur.com/Z5PnB8D.png" title="script example" />
-   - we stop at this part, and choose **"master"**, the next thing would be to execute it
+   
+  - we stop at this part, and choose **"master"**, the next thing would be to execute it
    
    <img src="https://i.imgur.com/UfTFnL7.png" title="how to execute" />
    
-   - after that we should see it in our databases.
+  - after that we should see it in our databases.
    
 <br>
 
