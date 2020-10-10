@@ -81,7 +81,7 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="ins
 <img src="https://i.imgur.com/M1w7oUS.png" title="how to compile project" />
 
 - After that, we have several ways to reestablish the connection with the database, but for now we will show you the following:
-  - tendremos que cambiar los datos del connectionString
+  - we will have to change the data of the connectionString
    - Data Source = "name server"
    - initial catalog = "database name"
    - if you have username and password add them, otherwise it is not necessary
