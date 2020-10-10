@@ -81,6 +81,7 @@ select and install them -> <img src="https://i.imgur.com/BO7MRVn.png" title="ins
 <img src="https://i.imgur.com/M1w7oUS.png" title="how to compile project" />
 
 - After that, we have several ways to reestablish the connection with the database, but for now we will show you the following:
+
   -Inside the project we will find a Web.config file, we open it and we position ourselves in <connectionStrings> inside we will see an add tag, that is our string to configure 
   - we will have to change the data of the connectionString
    - Data Source = "name server"
